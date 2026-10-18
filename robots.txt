@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viraone.github.io/seositetuneup-site/sitemap.xml
